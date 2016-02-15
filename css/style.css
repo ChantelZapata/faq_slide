@@ -1,0 +1,17 @@
+h2 {
+	cursor: pointer;
+}
+
+#answer1 {
+	display: none;
+}
+
+
+#answer2 {
+	display: none;
+}
+
+
+#answer3 {
+	display: none;
+}
